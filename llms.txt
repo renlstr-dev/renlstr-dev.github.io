@@ -3,7 +3,7 @@
 > AI / agent systems engineer based in Canberra, ACT, Australia. Eighteen years
 > building software at scale, fifteen of them in payments and financial systems.
 > Now builds multi-agent AI systems with the same discipline: reliability, cost
-> and evidence before cleverness. Open to remote roles across Australia.
+> and evidence before cleverness.
 
 Canonical page: https://renlstr-dev.github.io/
 Contact: hello@renlstr.dev
@@ -27,7 +27,6 @@ AI ventures are pre-launch. Architecture and technique are discussed directly, i
 ## Facts
 
 - Location: Canberra, ACT, Australia. Australian permanent resident with full work rights.
-- Availability: open to remote roles across Australia.
 - Education: Bachelor of Technology, Information Technology, Technological University of the Philippines, 2007.
 - Skills: multi-agent orchestration, agent runtimes, multi-provider LLM routing, LLM-as-judge and adversarial verification, eval and regression harnesses, MCP and tool use, RAG with cited memory, structured output, Python, TypeScript, AWS, distributed systems, engineering leadership.
 
