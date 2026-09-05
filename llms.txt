@@ -1,0 +1,37 @@
+# Renlester De Guzman
+
+> AI / agent systems engineer based in Canberra, ACT, Australia. Eighteen years
+> building software at scale, fifteen of them in payments and financial systems.
+> Now builds multi-agent AI systems with the same discipline: reliability, cost
+> and evidence before cleverness. Open to remote roles across Australia.
+
+Canonical page: https://renlstr-dev.github.io/
+Contact: hello@renlstr.dev
+
+## Current focus
+
+- **Multi-agent orchestration.** A production framework whose workflows compose cleanly, running several LLM products from one substrate.
+- **Multi-provider model routing.** Routing across Anthropic, Bedrock, Vertex Gemini and OpenRouter with structured output and tool calling.
+- **Evaluation and verification.** Offline and CI eval harnesses, with independent model-based verification as the gate before output is trusted.
+- **Tools, memory and governance.** MCP tool integration inside credential and sandbox boundaries. Grounded memory with citations, permissioning and human escalation.
+
+AI ventures are pre-launch. Architecture and technique are discussed directly, in depth under NDA.
+
+## Experience
+
+- **Technical Lead, Kogan.com** (2023 to present, remote Australia). E-commerce platform engineering on AWS at one of Australia's largest online retailers, driving adoption of AI and agentic workflows.
+- **Technical Lead, Xendit** (2021 to 2022, Malaysia, remote). Payment-gateway, e-commerce (Shopify, Magento) and accounting (Xero) integrations to 98% webhook reliability. Designed a scalable authorisation microservice; re-architected order-management services for 500+ additional orders per day. Led 4 teams, 12 engineers.
+- **Engineering Manager to Senior Engineering Manager, Payments, Fave** (2016 to 2021, Malaysia). Led up to 4 teams, 8 to 13 engineers. Built core financial systems including a double-entry ledger and a reporting pipeline that cut report generation from 3 days to 30 minutes. Integrated banks, e-wallets and gateways across Southeast Asia.
+- **Senior Software Engineer** (2007 to 2016) at Nintex, MYOB, Ezypay/iConnect360, BlastAsia and Gurango. Accounting, workflow and POS/payments platforms in C#/.NET, Java and Ruby on Rails, plus CI/CD and code-quality leadership.
+
+## Facts
+
+- Location: Canberra, ACT, Australia. Australian permanent resident with full work rights.
+- Availability: open to remote roles across Australia.
+- Education: Bachelor of Technology, Information Technology, Technological University of the Philippines, 2007.
+- Skills: multi-agent orchestration, agent runtimes, multi-provider LLM routing, LLM-as-judge and adversarial verification, eval and regression harnesses, MCP and tool use, RAG with cited memory, structured output, Python, TypeScript, AWS, distributed systems, engineering leadership.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/renlstr)
+- [GitHub](https://github.com/renlstr-dev)
